@@ -1,5 +1,5 @@
 # COVID19 Cyber Threat Coalition blocklist | www.cyberthreatcoalition.org | IOCs has been vetted by humans with love <3
-google.com
+apis.google.com
 0.z0o.cn
 0001safeworld0002.000webhostapp.com
 000dmobilt9034.com
